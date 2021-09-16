@@ -1,0 +1,25 @@
+
+
+<!--
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="24" height="24">
+	<path d="M 4 4 L 44 4 L 44 44 Z" fill="{{app.setting.color.accent}}" />
+	<path d="M 4 4 L 34 4 L 24 24 Z" fill="rgba(0,0,0,0.15)" />
+	<path d="M 4 4 L 24 4 L 4  44 Z" fill="{{app.setting.color.primary}}" />
+</svg>
+
+
+-->
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="center" width="128" height="128">
+    <path d="M 41,35 L25,50" style="fill: red; stroke: red; stroke-width: 4px;" />
+    <path d="M 76,2 L60,17 " style="fill: red; stroke: red; stroke-width: 4px;" />
+    <path d="M 75,0 L125,50 L100,50" style="fill: none; stroke: black; stroke-width: 2px;" />
+    <text x="12mm" y="9mm" fill="blue" stroke="blue" font-size="4mm">K</text>
+    <text x="15mm" y="9mm" fill="black" font-size="3mm">ambak</text>
+    <text x="12mm" y="13mm" fill="red" stroke="red" font-size="4mm">H</text>
+    <text x="15mm" y="13mm" fill="black" font-size="3mm">uasi</text>
+    <polygon points="73,10   81,10  81,18  73,18 "
+            style="stroke:#660000; fill:#d8f90f; stroke-width: 1;"/>
+</svg>

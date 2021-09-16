@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "kambakhuasi",
+    "description": "",
+    "home_page_url": "https://vpv96.github.io/kh_2021",
+    "feed_url": "https://vpv96.github.io/kh_2021/feed.json",
+    "user_comment": "",
+    "icon": "https://vpv96.github.io/kh_2021/media/website/logokh-2.svg",
+    "author": {
+        "name": "kvpv"
+    },
+    "items": [
+    ]
+}

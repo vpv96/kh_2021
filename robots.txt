@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vpv96.github.io/kh_2021/sitemap.xml
